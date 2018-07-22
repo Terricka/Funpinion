@@ -40,6 +40,7 @@ $( document ).ready(function() {
 
 
 	var questions = [
+		//This is a question + answers combo
 		[
 			"This is the text for the 1st question of the survey?",
 			[
@@ -50,7 +51,8 @@ $( document ).ready(function() {
 				["https://www.wired.com/images_blogs/underwire/2014/02/michael-jackson-eating-popcorn.gif", 200, 50]
 			]
 
-		],
+		], //question + answer combo ends here
+		//This is a question + answers combo
 		[
 			"This is the text for the 2nd question of the survey?",
 			[
@@ -61,7 +63,8 @@ $( document ).ready(function() {
 				["https://www.wired.com/images_blogs/underwire/2014/02/michael-jackson-eating-popcorn.gif", 200, 50]
 			]
 
-		],
+		],//question + answer combo ends here
+		//This is a question + answers combo
 		[
 			"And this is the 3rd and last question of the survey?",
 			[
@@ -72,7 +75,7 @@ $( document ).ready(function() {
 				["https://www.wired.com/images_blogs/underwire/2014/02/michael-jackson-eating-popcorn.gif", 200, 50]
 			]
 
-		]
+		]//question + answer combo ends here
 
 
 
