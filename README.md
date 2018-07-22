@@ -41,9 +41,9 @@
 		],
 	```
 5. Each gif option is contained in its own array which contains data about the image url and positioning style. Each git option is separated by comma besides the last.
-	⋅⋅⋅ Image URL in the first "" double quotes
-	⋅⋅⋅ Mobile CSS positioning for image (in percentage)
-	⋅⋅⋅ Desktop CSS positioning for image (in percentage)
+	... Image URL in the first "" double quotes
+	... Mobile CSS positioning for image (in percentage)
+	... Desktop CSS positioning for image (in percentage)
 	```
 				["https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif", 222, 47],
 				["https://media.giphy.com/media/l2R0aKwejYr8ycKAg/giphy.gif", 140, 30],
